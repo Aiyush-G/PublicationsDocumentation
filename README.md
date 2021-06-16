@@ -63,7 +63,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project was built for new members of the publications committee and provides a more interactive way of them learning Indesign and understanding how to produce articles to a high standard.
 
@@ -94,6 +93,7 @@ To get a local copy up and running follow these simple steps.
 bash
 ```cd intoClonedDirectory```
 ```bundle exec jekyll serve```
+
 Navigate to localhost:4000
 
 <!-- USAGE EXAMPLES -->
