@@ -14,10 +14,10 @@
     <img src="https://pbs.twimg.com/profile_images/693741893142888448/JmprlMVi.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">AGSB Publications Commitee Mentoring LMS</h3>
 
   <p align="center">
-    project_description
+    Thanks for visting, see how to contribute below! 
     <br />
     <a href="https://aiyush-g.github.io/PublicationsDocumentation/"><strong>Explore the site »</strong></a>
     <br />
