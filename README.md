@@ -1,3 +1,6 @@
+---
+nav_order: 2
+---
 ## Welcome to AGSB Publications Committee Mentoring
 
 🚀 🐼
