@@ -3,9 +3,18 @@ title: Glossary
 parent: Introduction
 ---
 
-# Another page
+# Important Keywords
 
-Test this
-
-
-blah
+| The Editor:         | That’s Mr Williams, he is responsible for the overall running of the committee.                                                                                                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Assistant Editors:  | These are the people who are responsible for chasing documents. You must ensure that you are completing the tasks assigned by these people.                                                                                                                                                |
+| Reporters:          | Your job is to get the articles. Either by writing them yourself or getting somebody else to write it. You then put them into an InDesign format and upload it ready to go into the magazine, this is explained further later on.                                                          |
+| Photographers:      | Photographers are responsible for taking the pictures around school or on trips (only if they are on the trip). Occasionally, reporters will be responsible for photographs if photographers are unavailable. School cameras are available from Mr Williams.                               |
+| ID Cards:           | These will have your photograph on and allow you free access to school events (negotiated by Mr Williams). It also allows you to jump to the front of the queue in the Stamford hall every Friday.                                                                                         |
+| Meetings:           | These will take place every Tuesday registration where you will report on your progress and be involved in the running of the committee. There will be a meeting every second lunchtime on a Friday. If you are in Team A, you will meet Friday week A and Team B on Friday week B.        |
+| O365 Drive:         | You will need to access the O365 Drive in order to download, edit and upload documents. You will use your school account to do this.                                                                                                                                                       |
+| InDesign:           | This is the program that we use to do all of our documents. You must learn how to use this, but you will also be assigned a mentor who will help you                                                                                                                                       |
+| InDesign Tutorials: | You need to access the mentor area and watch the indesign video to understand how to use it.                                                                                                                                                                                               |
+| Assigned List:      | This is located on the O365. You will be assigned roles on the planner and it is your responsibility to monitor the assigned task and to keep the Assistant Editors informed using this forum. You must change the status from not started > to in progress > then to completed when done. |
+| Consistency Matrix: | This is located on the O365. You MUST follow this when you complete an article.                                                                                                                                                                                                            |
+| Conversations:      | By following the Publications group you will be able to see the conversations section.   You must check this regularly. This is where we post all of our announcements.                                                                                                                    |
