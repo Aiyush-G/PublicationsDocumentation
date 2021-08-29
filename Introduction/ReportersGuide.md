@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: Reporters Guide
 parent: Introduction
 ---
 
