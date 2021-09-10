@@ -11,7 +11,7 @@ nav_order: 4
 - Check that your work is correct using the consistency matrix. 
 - Save a copy on your one drive and share with your mentor and Wi
 
-# Images
+**Images**
 To make your article more engaging and increase UX / UI, you should use primary images. Here are a selection that you could use, remember that you don't have to use all of them **think** about the ones you do!
 
 ![IMG1](https://github.com/Aiyush-G/PublicationsDocumentation/blob/main/Task-2/Task%202%20(2).JPG?raw=true)
