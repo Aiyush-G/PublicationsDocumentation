@@ -5,8 +5,11 @@ parent: Introduction
 
 # Have you...
 -Been added to the 0365 Publications OneDrive?
+
 -Watched the tutorials?
+
 -Completed all the mentor tasks?
+
 -Completed your first article?
 
 Completed the reading test (IMPORTANT YOU MUST READ THIS)
