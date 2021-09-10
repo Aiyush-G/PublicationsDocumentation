@@ -22,7 +22,7 @@
     <a href="https://aiyush-g.github.io/PublicationsDocumentation/"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="http://agsb.co.uk">AGSB Wesbite</a>
+    <a href="http://www.agsb.co.uk">AGSB Wesbite</a>
     ·
     <a href="https://github.com/Aiyush-G/PublicationsDocumentation/issues">Report Bug</a>
     ·
