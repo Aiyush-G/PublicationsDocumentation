@@ -11,3 +11,5 @@ There are a number of errors on the article. Using the consistency matrix from t
 Save a copy on your one drive and share with your mentor and Wi.
 
 [Download Indesign File Here](https://agsfb.sharepoint.com/:u:/s/publications2/EaBP5XoXKGhLvjnbdL1SQfUBCvkcJmfZMS32mYovh-2Ohw?e=gzuRvz){: .btn }
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hvdky3DYgfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
