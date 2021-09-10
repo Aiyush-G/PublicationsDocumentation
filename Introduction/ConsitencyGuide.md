@@ -3,7 +3,7 @@ title: Consistency Guide
 parent: Introduction
 ---
 
-When you put your article into InDesign IT MUST BE CONSISTENT with the rest of the magazine. If you follow the reporters guide and the templates provided, it is the easiest thing in the world. It is a 3 stage process in which you open a template, replace the title, replace the image and replace the body text for the article you are covering. Here are the things you MUST check you have done: 
+When you put your article into InDesign **IT MUST BE CONSISTENT** with the rest of the magazine. If you follow the reporters guide and the templates provided, it is the easiest thing in the world. It is a 3 stage process in which you open a template, replace the title, replace the image and replace the body text for the article you are covering. Here are the things you MUST check you have done: 
 
 | 1   | Use one of the templates [here](https://agsfb.sharepoint.com/sites/publications2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fpublications2%2FShared%20Documents%2FThe%20Word%2FThe%20Word%20Templates)  | ✓  |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
