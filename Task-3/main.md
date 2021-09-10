@@ -4,4 +4,8 @@ has_children: false
 nav_order: 5
 ---
 
-# FILL WITH CONTENT
+# Fixing An Article
+
+Access the Indesign Article from Task 3 Folder on Sharepoint or download the file below.
+There are a number of errors on the article. Using the consistency matrix from the last task identify AND fix the errors that you see. 
+Save a copy on your one drive and share with your mentor and Wi.
