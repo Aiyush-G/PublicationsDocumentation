@@ -9,4 +9,4 @@ Heya there, you must be new, or just looking to brush up on your skills! A list 
 
 ## Example of a video
 
-<iframe width="560" height="315" src="https://youtu.be/LUHLsUC6Z1M" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LUHLsUC6Z1M&feature=youtu.be" ></iframe>
