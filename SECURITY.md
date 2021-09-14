@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Security Policy
 
 ## Supported Versions
